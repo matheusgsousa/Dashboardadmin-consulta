@@ -1,0 +1,22 @@
+[
+    {
+        "icon": "bx bx-x",
+        "count": "2",
+        "title": "Agendamentos cancelados"
+    },
+    {
+        "icon": "bx bx-book-open",
+        "count": "230",
+        "title": "Total agendamentos"
+    },
+    {
+        "icon": "bx bx-dollar-circle",
+        "count": "$2,632",
+        "title": "Total "
+    },
+    {
+        "icon": "bx bx-receipt",
+        "count": "10",
+        "title": "Agendamentos ativos"
+    }
+]

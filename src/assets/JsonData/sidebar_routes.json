@@ -1,0 +1,18 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Clientes",
+        "route": "/clientes",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "Agenda",
+        "route": "/agenda",
+        "icon": "bx bx-book"
+    }
+    
+]
